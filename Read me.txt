@@ -1,0 +1,5 @@
+In this section, I have written the code related to the algorithm without using its specific libraries, 
+so there is room for its possible development.  
+In the dictionary called 'newD', the order of grouping of elements is shown, 
+and if the decision maker has a specific number of clusters in mind, in Dataframe 'firstdataframe', 
+the number of clusters specified by the decision maker is created, and its members are shown.
